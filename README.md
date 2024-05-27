@@ -7,3 +7,5 @@ Middle Rd. in what I assume was once Preston Village?
 
 [IMG_3236.jpeg](https://lfgss.microcosm.app/api/v1/files/3daf3c8395965425db9a174a0586e8da7ab7b67f.jpeg)
 
+<img src="https://lfgss.microcosm.app/api/v1/files/3daf3c8395965425db9a174a0586e8da7ab7b67f.jpeg" width="200" />
+
